@@ -54,7 +54,6 @@ import faiss
 import pickle
 import numpy as np
 from openai import OpenAI
-from chromadb import chromadb
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.indexes import VectorstoreIndexCreator

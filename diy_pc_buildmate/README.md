@@ -1,7 +1,6 @@
 # 🧑‍💻 DIY PC BuildMate 
 
-DIY PC BuildMate is an open-source for everyone who wants to build the PC-recommended chatbot. This chatbot designed to assist in the decision-making process of purchasing individual components for DIY PC builds. This project showcases a practical application of Large Language Model (LLM) technologies, employing strategies such as In-context Learning, Retrieval-Augmented Generation (RAG), fine-tuning, and advanced prompt engineering. Tailored to simplify the PC component shopping experience, it offers valuable guidance and recommendations, making the selection process easier and more accessible for both beginners and seasoned PC enthusiasts. DIY PC BuildMate aims to demystify the complexity of choosing the right parts for your custom PC build, ensuring a more informed and personalized shopping journey.
-
+DIY PC BuildMate is an open-source for everyone who wants to build the PC-recommended chatbot.
 
 - ✅ QA for PC general knowledge 
 - ✅ Search for any information in a database already.
@@ -30,6 +29,8 @@ diy_pc_buildmate/
 ```
 
 ## Installation
+
+The Python version: 3.10.13
 
 Open a terminal and run:
 
